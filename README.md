@@ -7,8 +7,8 @@ Aspiring Developer
 Got introduced to coding and computer science around the age of 11 but have always been fascinated with computers. Took my first coding class in junior high and have been hooked since!!
 
 * 🌍  I'm based in United States
-* 🚀  I'm currently working on [A School Project POS System (it's a private repo)](http://github.com/Legocopboss/STEMProject)
-* 🧠  I'm learning SQL integration and Tkinter in Python
+* 🚀  I'm currently working on [EDITH v1 (More like JARVIS v5 but EDITH is cooler so it works)](http://github.com/Legocopboss/EDITH_v1)
+* 🧠  I'm learning Machine Learning in Python as well as a multitude of other things
 
 <a href="https://www.github.com/Legocopboss" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Legocopboss?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/legocopboss13" target="_blank" rel="noreferrer"><img
