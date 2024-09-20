@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Braden Pool
 ===================================================================================================================================
 
-Aspiring Developer
+Software Developer
 ------------------
 
 Got introduced to coding and computer science around the age of 11 but have always been fascinated with computers. Took my first coding class in junior high and have been hooked since!!
