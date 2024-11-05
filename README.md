@@ -1,7 +1,7 @@
 <h1 align="center">Hey There! I'm Braden Pool</h1>
 <h3 align="center">I am Software Developer @ StateFarm</h3>
 
-- I’m currently working on my [Personal Website](https://github.com/Legocopboss/website)
+- I’m currently working on my [Education]()
 
 - I’m currently learning **Salesforce and Machine Learning**
 
